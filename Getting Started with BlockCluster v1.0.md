@@ -8,13 +8,13 @@ This article is for developers who want to build enterprise dapps using BlockClu
 
 > ## **Table of Contents**
 
-[TOC]
 
 
 
 
 
-## **About BlockCluster**
+
+##**About BlockCluster**
 
 BlockCluster is a platform to create any kind of asset-based Blockchain use-case in which you can control privacy, permission over the assets, and issue assets to other users on the network. It is available in two version: Public Cloud and Enterprise Installation. The public cloud version can be accessed via app.blockcluster.io, while Enterprise version can be installed on the premises or your own AWS/Azure/GCP account.
 
