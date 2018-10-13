@@ -7,8 +7,8 @@ This article is for developers who want to build enterprise dapps using BlockClu
 
 
 > ## **Table of Contents**
+<!--TOC-->
 
-[TOC]
 
 
 
